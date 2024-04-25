@@ -1,4 +1,5 @@
-[MESSAGE CONTROL]
+[MASTER]
 
 disable =
+    duplicate-code,
     missing-module-docstring
