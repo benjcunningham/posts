@@ -1,0 +1,10 @@
+[flake8]
+exclude =
+    .git,
+    .mypy_cache,
+    .venv,
+    .pytest_cache,
+    __pycache__,
+    test-results,
+    build
+make-line-length = 88
